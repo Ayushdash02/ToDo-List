@@ -1,6 +1,5 @@
-# ToDo-List Application
-This To-Do List application, built with HTML, CSS, and JavaScript, provides a simple yet effective solution for managing tasks and improving productivity. Customize and expand the application as needed to suit your workflow and preferences.
 
+# TO-DO List Application
 
 ## Overview
 This TO-DO List application is a simple web-based tool to help you keep track of tasks and manage your day effectively. It allows users to add tasks, mark them as completed, and delete them when they're done.
